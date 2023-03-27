@@ -1,7 +1,6 @@
-### Olá! Eu sou o João Victor. 👋
+### Olá! Eu sou o João Victor Neves. 👋
 
-- 🔭 Hoje trabalho com desenvolvimento de automações (UiPath)
-- 🌱 Cursando: Engenharia de software
+- 🌱 Cursando: Engenharia de software (sétimo período)
 - 😄 Pronomes: ele/dele
 <div align="center">
   <a href="https://github.com/joaomvictor">
