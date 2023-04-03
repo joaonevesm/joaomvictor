@@ -14,7 +14,7 @@
   <img align="center" alt="Joao-BitBucket" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img align="center" alt="Joao-Rust" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="center" alt="Joao-Slack" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">  
-  
+  <img align="center" alt="Joao-Figma" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
   ##
   
  <div>
